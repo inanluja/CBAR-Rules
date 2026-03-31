@@ -1,2 +1,2 @@
 # CBAR-Rules
-Rules of Central Bank of Azerbaijan
+Central Bank of Azerbaijan Policies
